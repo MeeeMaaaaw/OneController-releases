@@ -1,6 +1,6 @@
 {
   "name": "one-controller",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "description": "One-Controller: on-router controller for MikroTik hotspot vouchers, ESP8266 coinslot, and PPPoE subscriptions",
